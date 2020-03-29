@@ -3,6 +3,9 @@ package ru.geekbrains.java2.hw;
 import java.util.Random;
 /*
 *   Author Nikolay Bakhvalov
+*   time 2020-03-30
+*
+*
 *
 *
 *    1. Создайте три класса Человек, Кот, Робот, которые не наследуются от одного класса.
