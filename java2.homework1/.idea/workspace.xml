@@ -14,10 +14,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="f02496fe-dcf2-4dd4-a6b4-65211e3b6d9e" />
   </component>
   <component name="ProjectId" id="1ZotPFKzC4Ac9cCfCLZlXBLKZUD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -62,10 +66,10 @@
       <screen x="0" y="27" width="1600" height="827" />
     </state>
     <state x="571" y="184" width="447" height="520" key="FileChooserDialogImpl/0.27.1600.827@0.27.1600.827" timestamp="1585522337762" />
-    <state x="626" y="335" width="337" height="217" key="Github.ShareDialog" timestamp="1585523538725">
+    <state x="626" y="335" width="337" height="217" key="Github.ShareDialog" timestamp="1585524463087">
       <screen x="0" y="27" width="1600" height="827" />
     </state>
-    <state x="626" y="335" width="337" height="217" key="Github.ShareDialog/0.27.1600.827@0.27.1600.827" timestamp="1585523538725" />
+    <state x="626" y="335" width="337" height="217" key="Github.ShareDialog/0.27.1600.827@0.27.1600.827" timestamp="1585524463087" />
     <state width="1554" height="201" key="GridCell.Tab.0.bottom" timestamp="1585522472794">
       <screen x="0" y="27" width="1600" height="827" />
     </state>
@@ -98,10 +102,10 @@
       <screen x="0" y="27" width="1600" height="827" />
     </state>
     <state width="1554" height="250" key="GridCell.Tab.1.right/0.27.1600.827@0.27.1600.827" timestamp="1585521454056" />
-    <state x="289" y="75" width="1022" height="737" key="SettingsEditor" timestamp="1585522393775">
+    <state x="289" y="75" width="1022" height="737" key="SettingsEditor" timestamp="1585524543552">
       <screen x="0" y="27" width="1600" height="827" />
     </state>
-    <state x="289" y="75" width="1022" height="737" key="SettingsEditor/0.27.1600.827@0.27.1600.827" timestamp="1585522393775" />
+    <state x="289" y="75" width="1022" height="737" key="SettingsEditor/0.27.1600.827@0.27.1600.827" timestamp="1585524543552" />
     <state x="456" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1585517261198">
       <screen x="0" y="27" width="1600" height="827" />
     </state>
